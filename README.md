@@ -1,7 +1,6 @@
 # Analysis-FASTQ-with-a-graphical-interface
 
-Реализация графического интерфейса (GUI) для модуля чтения и анализа биологических файлов формата FASTQ. сделано на основе https://github.com/polinakuklina07-max/biological-data-formats.git
-
+Реализация графического интерфейса (GUI) для модуля чтения и анализа биологических файлов формата FASTQ. сделано на основе https://github.com/polinakuklina07-max/biological-data-formats.git и содержит элементы оттуда
 ## Возможности
 - **Выбор файлов** через системный диалог с фильтром по форматам (`.fastq`, `.fq`, `.fastq.gz`, `.fq.gz`).
 - **Статистический анализ** файла в один проход:
